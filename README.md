@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DennisSackmann
-- 👀 I’m interested in python and javascript
-- 🌱 I’m currently learning how to make chrome extensions with javascript
-- 📫 How to reach me: twitter @dennissackmann
+- 👀 I’m interested in webdev with python and javascript
+- 🌱 I’m currently learning how to make google chrome extensions with javascript
+- 📫 How to reach me: twitter @SackmannDennis
 
 <!---
 DennisSackmann/DennisSackmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
